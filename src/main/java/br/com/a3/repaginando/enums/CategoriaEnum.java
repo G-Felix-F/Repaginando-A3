@@ -9,7 +9,8 @@ public enum CategoriaEnum {
     BIOGRAFIA("Biografia"),
     HISTORIA("História"),
     CIENCIA("Ciência"),
-    AUTOAJUDA("Auto-Ajuda");
+    AUTOAJUDA("Auto-Ajuda"),
+    MANGA("Mangá");
 	
 	private final String categoriaNome;
 

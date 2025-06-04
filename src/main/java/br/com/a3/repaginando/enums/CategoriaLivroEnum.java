@@ -1,6 +1,6 @@
 package br.com.a3.repaginando.enums;
 
-public enum CategoriaEnum {
+public enum CategoriaLivroEnum {
     FICCAO("Ficção Científica"),
     ROMANCE("Romance"),
     SUSPENSE("Suspense"),
@@ -14,7 +14,7 @@ public enum CategoriaEnum {
 	
 	private final String categoriaNome;
 
-	CategoriaEnum(String categoriaNome) {
+	CategoriaLivroEnum(String categoriaNome) {
 		this.categoriaNome = categoriaNome;
 	};
 	
